@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('config-server App', () => {
+describe('configuration App', () => {
   let page: AppPage;
 
   beforeEach(() => {
